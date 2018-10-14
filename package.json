@@ -1,0 +1,19 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Webpack config and boilerplate repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewlarry/webpack.git"
+  },
+  "author": "Andrew Fuselier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewlarry/webpack/issues"
+  },
+  "homepage": "https://github.com/andrewlarry/webpack#readme"
+}
